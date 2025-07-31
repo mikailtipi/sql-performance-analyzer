@@ -10,7 +10,7 @@ GO
 -- Description: Runs any SQL query, measures execution time and affected rows.
 -- Stores logs in a generic logging table for performance diagnostics.
 
-ALTER PROCEDURE [dbo].[RunAndMeasure]
+CREATE PROCEDURE [dbo].[RunAndMeasure]
     @Query NVARCHAR(MAX)
 AS
 BEGIN
