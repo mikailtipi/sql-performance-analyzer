@@ -25,6 +25,31 @@ Located in `/stored_procedures/RunAndMeasure.sql`, this SP securely executes the
 
 ### 📷 Screenshots
 
+#### 🔐 Splash Screen  
+![Splash Screen](images/splashscreen.png)
+
+#### 🔌 Database Connection  
+![DB Connection](images/dbconnection.png)
+
+#### 📦 Metadata Options  
+![Metadata Options](images/metadata.png)
+
+#### 📋 Query Analyzer  
+![Query Analyzer](images/queryanalyzer.png)
+
+#### 🔎 Metadata Details  
+![Details](images/details.png)
+
+#### 🧪 Sample Query Analysis  
+![Example](images/example.png)  
+![Example 2](images/example2.png)
+
+#### ⏱ Execution Results  
+![Execution](images/execution.png)  
+![Execution Example](images/executionexample.png)
+
+#### 🖥 Connect From Bash  
+![Connect from Bash](images/connectfrombash.png)
 
 ### 🛠 Requirements
 - Python 3.8+
@@ -60,6 +85,31 @@ Bu interaktif Streamlit aracı, SQL Server sorgularını yapısal ve performans 
 
 ### 📷 Ekran Görüntüleri
 
+#### 🔐 Açılış Ekranı 
+![Açılış Ekranı](images/splashscreen.png)
+
+#### 🔌 Database Bağlantısı  
+![DB Bağlantısı](images/dbconnection.png)
+
+#### 📦 Metadata Ayarları  
+![Metadata Ayarları](images/metadata.png)
+
+#### 📋 Sorgu Analizi  
+![Sorgu Analizi](images/queryanalyzer.png)
+
+#### 🔎 Metadata Detayları 
+![Detaylar](images/details.png)
+
+#### 🧪 Sample Sorgu Analizi  
+![Örnek](images/example.png)  
+![Örnek 2](images/example2.png)
+
+#### ⏱ Execution Sonuçları  
+![Execution](images/execution.png)  
+![Execution Örnek](images/executionexample.png)
+
+#### 🖥 CMD ile Bağlanma  
+![CMD ile Bağlanma](images/connectfrombash.png)
 
 
 ### 🛠 Gereksinimler
@@ -68,7 +118,7 @@ Bu interaktif Streamlit aracı, SQL Server sorgularını yapısal ve performans 
 - ODBC Driver 18 for SQL Server
 
 ### 🙌 Katkı Sağla
-Açık kaynak katkılarını memnuniyetle karşılıyoruz. Fork'layabilir, issue açabilir veya pull request gönderebilirsiniz.
+Açık kaynak katkılarını memnuniyetle karşılıyorum. Fork'layabilir, issue açabilir veya pull request gönderebilirsiniz.
 
 
 ---
