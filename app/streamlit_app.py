@@ -39,7 +39,7 @@ def connect_to_sql_server(server, db_name, username=None, password=None):
         print("Connection failed:", e)
         return None
 
-from query_analyzer_v2 import analyze_query, analyze_execution_plan
+from query_analyzer import analyze_query, analyze_execution_plan
 from table_info import get_table_info
 from graphviz_execution_plan import parse_execution_plan_for_graphviz
 
