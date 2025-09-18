@@ -126,7 +126,7 @@ Açık kaynak katkılarını memnuniyetle karşılıyorum. Fork'layabilir, issue
 ## Run Locally
 
 ```bash
-git clone https://github.com/yourusername/sql-optimization-tool.git
+git clone https://github.com/mikailtipi/sql-optimization-tool.git
 cd sql-optimization-tool
 pip install -r requirements.txt
 streamlit run app/app.py
@@ -134,7 +134,7 @@ streamlit run app/app.py
 
 ### Kurulum
 ```bash
-git clone https://github.com/yourusername/sql-performance-analyzer.git
+git clone https://github.com/mikailtipi/sql-performance-analyzer.git
 cd sql-performance-analyzer
 pip install -r requirements.txt
 streamlit run app.py
